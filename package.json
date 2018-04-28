@@ -3,6 +3,16 @@
   "version": "1.0.0",
   "description": "Consume Node.js readable streams using promises.",
   "homepage": "https://github.com/princjef/promise-stream#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/princjef/promise-stream.git"
+  },
+  "bugs": {
+    "url": "https://github.com/princjef/promise-stream/issues"
+  },
+  "engines": {
+    "node": ">8.0.0"
+  },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
