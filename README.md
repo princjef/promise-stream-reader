@@ -1,10 +1,10 @@
-# promise-stream
+# promise-stream-reader
 
 Consume data from Node.js readable streams using promises and async/await to
 control flow.
 
 ```
-npm install promise-stream
+npm install promise-stream-reader
 ```
 
 ## Usage
@@ -13,7 +13,7 @@ The base export is a function that returns a writable stream to which you can
 pipe your readable/duplex stream.
 
 ```js
-const promiseStream = require('promise-stream');
+const promiseStream = require('promise-stream-reader');
 
 async function readStream(readableStream) {
     const reader = promiseStream();

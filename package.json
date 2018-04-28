@@ -1,14 +1,14 @@
 {
-  "name": "promise-stream",
+  "name": "promise-stream-reader",
   "version": "1.0.0",
   "description": "Consume Node.js readable streams using promises.",
-  "homepage": "https://github.com/princjef/promise-stream#readme",
+  "homepage": "https://github.com/princjef/promise-stream-reader#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/princjef/promise-stream.git"
+    "url": "https://github.com/princjef/promise-stream-reader.git"
   },
   "bugs": {
-    "url": "https://github.com/princjef/promise-stream/issues"
+    "url": "https://github.com/princjef/promise-stream-reader/issues"
   },
   "engines": {
     "node": ">8.0.0"

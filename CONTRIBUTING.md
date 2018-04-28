@@ -10,8 +10,8 @@ the [issues][] section of the repository to open an issue. Some guidelines:
    the conversation if there's something new to add or or [give the issue a
    thumbs up][github reactions] to show you have the same issue/request.
 
- * Please include the version of both Node.js (`node -v`) and promise-stream
-   (`npm ls promise-stream`) that you are using. If you're not on the latest
+ * Please include the version of both Node.js (`node -v`) and promise-stream-reader
+   (`npm ls promise-stream-reader`) that you are using. If you're not on the latest
    version, try using that first and see if it fixes your issue.
 
  * Include specific details about what you were doing and what went wrong and
@@ -94,9 +94,9 @@ not familiar with the style, you can run the following instead of the standard
 npm run commit
 ```
 
-[issues]: https://github.com/princjef/promise-stream/issues
-[new pull request]: https://github.com/princjef/promise-stream/compare
-[dev branch]: https://github.com/princjef/promise-stream/blob/dev
+[issues]: https://github.com/princjef/promise-stream-reader/issues
+[new pull request]: https://github.com/princjef/promise-stream-reader/compare
+[dev branch]: https://github.com/princjef/promise-stream-reader/blob/dev
 [angular commit style]: https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-guidelines
 [github reactions]: https://blog.github.com/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/
 [github fork]: https://help.github.com/articles/fork-a-repo
