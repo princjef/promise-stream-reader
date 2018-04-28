@@ -16,6 +16,7 @@ branches:
     - /^greenkeeper.*$/
 
 stages:
+  - commitlint
   - test
   - name: release
     if: branch = master AND type IN (push)
