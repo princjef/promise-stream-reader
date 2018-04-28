@@ -1,6 +1,6 @@
 {
   "name": "promise-stream-reader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Consume Node.js readable streams using promises.",
   "homepage": "https://github.com/princjef/promise-stream-reader#readme",
   "repository": {
