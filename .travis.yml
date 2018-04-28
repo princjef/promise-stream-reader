@@ -30,4 +30,4 @@ jobs:
       script: npm test
       after_success: npm run coverage
     - stage: release
-      script: semantic-release
+      script: npm run release

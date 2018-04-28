@@ -28,7 +28,9 @@
     "pretest-nocover": "npm run build",
     "test-nocover": "ava dist/**/*.spec.js",
     "show-coverage": "opener ./coverage/index.html",
-    "coverage": "nyc report --reporter=text-lcov > coverage.lcov && codecov"
+    "coverage": "nyc report --reporter=text-lcov > coverage.lcov && codecov",
+    "prerelease": "npm run build",
+    "release": "semantic-release"
   },
   "keywords": [
     "promise",
