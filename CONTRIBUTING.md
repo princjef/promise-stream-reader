@@ -37,17 +37,14 @@ the documentation? You should open a Pull Request! Some steps to follow:
 
  2. [Fork the repository][github fork] if you haven't before
 
- 3. All development happens in the [dev][dev branch] branch. Create your new
-    branch from there to prevent conflicts when you go to open a pull request.
-
- 4. [Set up your development environment](#developer-setup) and make your
+ 3. [Set up your development environment](#developer-setup) and make your
     changes. Also be sure to add tests for your change.
 
- 5. When you're ready to push your changes, run `npm t` to lint, build and test
+ 4. When you're ready to push your changes, run `npm t` to lint, build and test
     your code. Any failures here will cause your pull request's continuous
     integration to fail, so it's best to catch it early.
 
- 6. Once you've pushed your code into your fork, [open a pull request][new pull 
+ 5. Once you've pushed your code into your fork, [open a pull request][new pull 
     request] and follow the template to fill in the pull request information.
 
 ## Developer Setup
@@ -96,7 +93,6 @@ npm run commit
 
 [issues]: https://github.com/princjef/promise-stream-reader/issues
 [new pull request]: https://github.com/princjef/promise-stream-reader/compare
-[dev branch]: https://github.com/princjef/promise-stream-reader/blob/dev
 [angular commit style]: https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-guidelines
 [github reactions]: https://blog.github.com/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/
 [github fork]: https://help.github.com/articles/fork-a-repo

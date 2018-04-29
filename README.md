@@ -1,7 +1,7 @@
 # promise-stream-reader
 
-[![Travis CI build status](https://travis-ci.org/princjef/promise-stream-reader.svg?branch=dev)](https://travis-ci.org/princjef/promise-stream-reader)
-[![codecov](https://codecov.io/gh/princjef/promise-stream-reader/branch/dev/graph/badge.svg)](https://codecov.io/gh/princjef/promise-stream-reader)
+[![Travis CI build status](https://travis-ci.org/princjef/promise-stream-reader.svg?branch=master)](https://travis-ci.org/princjef/promise-stream-reader)
+[![codecov](https://codecov.io/gh/princjef/promise-stream-reader/branch/master/graph/badge.svg)](https://codecov.io/gh/princjef/promise-stream-reader)
 [![npm version](https://img.shields.io/npm/v/promise-stream-reader.svg)](https://npmjs.org/package/promise-stream-reader)
 
 
